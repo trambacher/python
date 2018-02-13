@@ -1,0 +1,8 @@
+python 2 does classic division, 3/2 = 1
+python 3 does true, 3/2 = 1.5
+
+# single comment
+
+variables, lowercase, _ for space, no special characters, start with letter
+
+python 3, print is a function and not a statement, so print("S") instead of print "s"
